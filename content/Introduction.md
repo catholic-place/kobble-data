@@ -1,5 +1,5 @@
 ::: slide
-## Slide 1
+## Welcome to Cathol
 Introduction
 :::
 ::: slide
