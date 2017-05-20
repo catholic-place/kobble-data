@@ -5,5 +5,5 @@ Introduction
 :::
 ::: slide
 ## What is Catholic Place?
-Welcome to Catholic Place
+
 :::
