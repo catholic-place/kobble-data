@@ -4,7 +4,7 @@
 :::
 ::: slide
 ##### What is Catholic Place?
-* A Place to Learn about the Catholic Faith
-* A Repository of Catholic Informaion
+* Learn about the Catholic Faith
+* Repository of Catholic Informaion
 * 
 :::
