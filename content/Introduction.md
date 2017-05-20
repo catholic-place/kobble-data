@@ -4,5 +4,6 @@
 :::
 ::: slide
 ##### What is Catholic Place?
-* A Place to Lea
+* A Place to Learn about the Catholic Faith
+* 
 :::
