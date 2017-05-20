@@ -1,7 +1,7 @@
 ::: slide
 ## Welcome to Catholic Place
 Introduction
-
+[![]
 :::
 ::: slide
 ## Slide 2
