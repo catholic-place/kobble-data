@@ -1,1 +1,57 @@
-{"groups":[{"channels":[{"channel":{"gist":null,"owner":"catholic-place","path":"channels/bios.json","repo":"kobble-data"},"subtitle":"Biographies","title":"Biographies"}],"isShowing":true,"isToggled":false,"key":"ChannelsState/0.021975844610016115","name":"Church"},{"channels":[{"channel":{"gist":null,"owner":"catholic-place","path":"channels/fathers.json","repo":"kobble-data"},"subtitle":"Fathers of the Church","title":"Fathers of the Church"},{"channel":{"gist":null,"owner":"catholic-place","path":"channels/Doctors-of-the-Church.json","repo":"kobble-data"},"subtitle":"Doctors of the Church","title":"Doctors of the Church"}],"isShowing":true,"isToggled":false,"key":"ChannelsState/0.8332383232813385","name":"Saints"},{"channels":[{"channel":{"gist":null,"owner":"catholic-place","path":"channels/Welcome.json","repo":"kobble-data"},"subtitle":"Welcome","title":"Welcome"}],"isShowing":true,"isToggled":true,"key":"ChannelsState/0.8371868461851135","name":"Home"}]}
+{
+    "groups": [{
+        "channels": [{
+            "channel": {
+                "gist": null,
+                "owner": "catholic-place",
+                "path": "channels/Welcome.json",
+                "repo": "kobble-data"
+            },
+            "subtitle": "Welcome",
+            "title": "Welcome"
+        }],
+        "isShowing": true,
+        "isToggled": true,
+        "key": "ChannelsState/0.8371868461851135",
+        "name": "Home"
+    },{
+        "channels": [{
+            "channel": {
+                "gist": null,
+                "owner": "catholic-place",
+                "path": "channels/bios.json",
+                "repo": "kobble-data"
+            },
+            "subtitle": "Biographies",
+            "title": "Biographies"
+        }],
+        "isShowing": true,
+        "isToggled": false,
+        "key": "ChannelsState/0.021975844610016115",
+        "name": "Church"
+    }, {
+        "channels": [{
+            "channel": {
+                "gist": null,
+                "owner": "catholic-place",
+                "path": "channels/fathers.json",
+                "repo": "kobble-data"
+            },
+            "subtitle": "Fathers of the Church",
+            "title": "Fathers of the Church"
+        }, {
+            "channel": {
+                "gist": null,
+                "owner": "catholic-place",
+                "path": "channels/Doctors-of-the-Church.json",
+                "repo": "kobble-data"
+            },
+            "subtitle": "Doctors of the Church",
+            "title": "Doctors of the Church"
+        }],
+        "isShowing": true,
+        "isToggled": false,
+        "key": "ChannelsState/0.8332383232813385",
+        "name": "Saints"
+    }]
+}
