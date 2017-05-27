@@ -19,21 +19,6 @@
             "channel": {
                 "gist": null,
                 "owner": "catholic-place",
-                "path": "channels/bios.json",
-                "repo": "kobble-data"
-            },
-            "subtitle": "Biographies",
-            "title": "Biographies"
-        }],
-        "isShowing": true,
-        "isToggled": false,
-        "key": "ChannelsState/0.021975844610016115",
-        "name": "Church"
-    }, {
-        "channels": [{
-            "channel": {
-                "gist": null,
-                "owner": "catholic-place",
                 "path": "channels/fathers.json",
                 "repo": "kobble-data"
             },
@@ -53,5 +38,20 @@
         "isToggled": false,
         "key": "ChannelsState/0.8332383232813385",
         "name": "Saints"
+    },{
+        "channels": [{
+            "channel": {
+                "gist": null,
+                "owner": "catholic-place",
+                "path": "channels/bios.json",
+                "repo": "kobble-data"
+            },
+            "subtitle": "Biographies",
+            "title": "Biographies"
+        }],
+        "isShowing": true,
+        "isToggled": false,
+        "key": "ChannelsState/0.021975844610016115",
+        "name": "Church"
     }]
 }
