@@ -1,2 +1,2 @@
-## Welcome to the Cathl
+## The Catholic Place
 ### Home
