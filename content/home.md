@@ -1,2 +1,2 @@
 ## The Catholic Place
-Welcome to the Catholic Place, your home for Catholic Study 
+Welcome to the Catholic Place, where you can study 
