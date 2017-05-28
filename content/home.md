@@ -10,4 +10,4 @@ If you create an account, you can utilize the full power of the Catholic Place t
 
 To get started, just select a Channel on the left and start drilling down and viewing the information. When you are ready to start creating, view the OnBoard slideshow and the Tutorial.
 
-Note that you can view anything without an account, but you need an account in order to create and modify 
+Note that you can view anything without an account, but you need an account in order to create.
