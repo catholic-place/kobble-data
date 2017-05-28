@@ -4,4 +4,4 @@ Welcome to the Catholic Place, where you can study the Catholic Faith and create
 
 The Catholic Place is both a repository of Catholic information *and* a place where you can create 
 
-Content is arranged in Channels. Click a channel to start drilling down. A
+Content is arranged in Channels and Tracks. Click a channel on in t
