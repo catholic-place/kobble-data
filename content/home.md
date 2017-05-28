@@ -1,6 +1,6 @@
 # The Catholic Place
 
-Welcome to the Catholic Place! A place to store our rich historical repository of the Catholic Church. Here you can instantly view archived literary works including those written by the Saints and Popes of the Catholic Church.
+Welcome to the Catholic Place, a place to store our rich historical repository of the Catholic Church. Here you can instantly view archived literary works including those written by the Saints and Popes of the Catholic Church.
 
 
 
