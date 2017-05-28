@@ -1,2 +1,2 @@
 ## The Catholic Place
-### Home
+Welcome to the Catholic Place, yo
