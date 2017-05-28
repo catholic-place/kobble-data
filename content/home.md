@@ -2,7 +2,7 @@
 
 Welcome to the Catholic Place, where you can study the Catholic Faith and create beautiful content similar to what you see here. 
 
-Here you can instantly view archived literary works including those written by the Saints and Popes of the Catholic Church.
+Here you can instantly view archived literary works including those written by the famSaints and Popes of the Catholic Church.
 
 
 
