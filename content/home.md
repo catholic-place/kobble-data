@@ -1,4 +1,4 @@
 ## The Catholic Place
 Welcome to the Catholic Place, where you can study the Catholic Faith and create beautiful content similar to what you see.
 
-Content is arranged in *Channels*
+Content is arranged in *Channels*. 
