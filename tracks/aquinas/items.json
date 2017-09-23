@@ -26,7 +26,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Audio",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
         {
           "data" : {
