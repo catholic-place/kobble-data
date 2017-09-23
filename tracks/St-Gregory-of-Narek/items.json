@@ -1,1 +1,21 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://en.wikipedia.org/wiki/Gregory_of_Narek"}},"expanded":false,"subtitle":"Gregory of Narek","title":"St. Gregory of Narek (Wiki)","view":{"tag":"UI.ContentViews.Views.WebView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Gregory_of_Narek"
+        }
+      },
+      "title" : "Gregory of Narek ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Wikipedia",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    }
+  ]
+}
