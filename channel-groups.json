@@ -6,6 +6,14 @@
 
       ],
       "isToggled" : false,
+      "name" : "Bible Study"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
       "name" : "Prayers"
     },
     {
