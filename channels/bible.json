@@ -3,6 +3,15 @@
   "subtitle" : "Bible",
   "tracks" : [
     {
+      "title" : "Bible Concordance",
+      "subtitle" : "Bible Concordance",
+      "track" : {
+        "owner" : "catholic-place",
+        "path" : "tracks\/concordance",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Commentaries",
       "subtitle" : "Commentaries",
       "track" : {
