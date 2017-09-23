@@ -1,1 +1,123 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/treatisesofstath01athaiala"}},"expanded":false,"subtitle":"Select Treatises Vol 1","title":"St. Athanasius/ John H. Newman","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/ra59764002athauoft"}},"expanded":false,"subtitle":"Select Treatises Vol 2","title":"St. Athanasius/ John H. Newman","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/FestalEpistlesOfStAthanasiusEnglishTranslation"}},"expanded":false,"subtitle":"Festal Epistles of St Athanasius","title":"St. Athanasius","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/details/Sermon050212"}},"expanded":false,"subtitle":"St Athanasius the Great","title":"St. Athanasius (Audio) Silverstream Priory","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/AthanasiusIncarnationOfTheWord"}},"expanded":false,"subtitle":"On the Incarnation of the Word","title":"St. Athanasius ","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/stathanasiushisl00bush"}},"expanded":false,"subtitle":"His Life and Times","title":"St. Athanasius/ Robert W. Bush","view":{"tag":"UI.ContentViews.Views.WebView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Athanasius_of_Alexandria"
+        }
+      },
+      "title" : "Athanasius Of Alexandria",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Wikipedia",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/treatisesofstath01athaiala"
+        }
+      },
+      "title" : "St. Athanasius\/ John H. Newman",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Select Treatises Vol 1",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/ra59764002athauoft"
+        }
+      },
+      "title" : "St. Athanasius\/ John H. Newman",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Select Treatises Vol 2",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/FestalEpistlesOfStAthanasiusEnglishTranslation"
+        }
+      },
+      "title" : "St. Athanasius",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Festal Epistles of St Athanasius",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/Sermon050212"
+        }
+      },
+      "title" : "St. Athanasius (Audio) Silverstream Priory",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "St Athanasius the Great",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/AthanasiusIncarnationOfTheWord"
+        }
+      },
+      "title" : "St. Athanasius ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "On the Incarnation of the Word",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/stathanasiushisl00bush"
+        }
+      },
+      "title" : "St. Athanasius\/ Robert W. Bush",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "His Life and Times",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    }
+  ]
+}
