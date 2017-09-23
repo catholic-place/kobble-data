@@ -2,6 +2,14 @@
   "title" : "Bible",
   "subtitle" : "Bible",
   "tracks" : [
-
+    {
+      "title" : "Commentaries",
+      "subtitle" : "Commentaries",
+      "track" : {
+        "owner" : "catholic-place",
+        "path" : "tracks\/commentaries",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
