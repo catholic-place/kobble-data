@@ -1,1 +1,106 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/StGregoryAndTheGregorianMusic"}},"expanded":false,"subtitle":"St. Gregory and the Gregorian Music","title":"St. Gregory the Great","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/ALifeOfPopeStGregoryTheGreat"}},"expanded":false,"subtitle":"A life of Pope St. Gregory the Great ","title":"St. Gregory The Great/ Gasquet","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/PopeSt.GregoryTheGreatHomilyOnThePastoralOffice"}},"expanded":false,"subtitle":"Great Homily On The Pastoral Office","title":"St. Gregory The Great","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/GregoryTheGreat"}},"expanded":false,"subtitle":"Gregory The Great ","title":"St. Gregory The Great / Barmby","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://en.wikipedia.org/wiki/Pope_Gregory_I"}},"expanded":true,"subtitle":"Pope Gregory I","title":"St. Gregory The Great (Wiki)","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/DialoguesGregoryTheGreatPopeSt.5089"}},"expanded":false,"subtitle":"Dialogues St Gregory The Great","title":"St. Gregory The Great","view":{"tag":"UI.ContentViews.Views.WebView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/StGregoryAndTheGregorianMusic"
+        }
+      },
+      "title" : "St. Gregory the Great",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "St. Gregory and the Gregorian Music",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/ALifeOfPopeStGregoryTheGreat"
+        }
+      },
+      "title" : "St. Gregory The Great\/ Gasquet",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "A life of Pope St. Gregory the Great ",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/PopeSt.GregoryTheGreatHomilyOnThePastoralOffice"
+        }
+      },
+      "title" : "St. Gregory The Great",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Great Homily On The Pastoral Office",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/GregoryTheGreat"
+        }
+      },
+      "title" : "St. Gregory The Great \/ Barmby",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Gregory The Great ",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Pope_Gregory_I"
+        }
+      },
+      "title" : "Pope Gregory  I",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Wikipedia",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/DialoguesGregoryTheGreatPopeSt.5089"
+        }
+      },
+      "title" : "St. Gregory The Great",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Dialogues St Gregory The Great",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    }
+  ]
+}
