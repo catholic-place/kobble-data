@@ -1,1 +1,38 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/41ALibraryOfFathersOfTheHolyCatholicV41"}},"expanded":false,"subtitle":"Select Works","title":"St. Ephrem the Syrian","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://en.wikipedia.org/wiki/Ephrem_the_Syrian"}},"expanded":false,"subtitle":"Ephrem the Syrian","title":"St. Ephrem the Syrian (Wiki)","view":{"tag":"UI.ContentViews.Views.WebView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/41ALibraryOfFathersOfTheHolyCatholicV41"
+        }
+      },
+      "title" : "St. Ephrem the Syrian",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Select Works",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Ephrem_the_Syrian"
+        }
+      },
+      "title" : "Ephrem the Syrian ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Wikipedia",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    }
+  ]
+}
