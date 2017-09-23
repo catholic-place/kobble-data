@@ -1,1 +1,38 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://en.wikipedia.org/wiki/Hildegard_of_Bingen"}},"expanded":false,"subtitle":"Hildegard Of Bingen","title":"St Hildegard Of Bingen (Wiki)","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/SelectedWritingsHildegardOfBingenMarkAtherton"}},"expanded":false,"subtitle":"Selected Writings St Hildegard Of Bingen ","title":"St Hildegard Of Bingen ","view":{"tag":"UI.ContentViews.Views.WebView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Hildegard_of_Bingen"
+        }
+      },
+      "title" : "Hildegard Of Bingen ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Wikipedia",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/SelectedWritingsHildegardOfBingenMarkAtherton"
+        }
+      },
+      "title" : "St Hildegard Of Bingen ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Selected Writings St Hildegard Of Bingen ",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    }
+  ]
+}
