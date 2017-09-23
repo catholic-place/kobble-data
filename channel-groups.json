@@ -20,6 +20,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Catholic Martyrs",
+          "subtitle" : "Martyrs Of The Catholic Faith",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/Martyrs.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Fathers of the Church",
           "subtitle" : "Fathers of the Church",
           "channel" : {
