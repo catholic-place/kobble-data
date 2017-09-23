@@ -1,1 +1,242 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/stbernardstreati00bern"}},"expanded":false,"subtitle":"Treatise on Consideration","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/details/mma_the_virgin_appearing_to_st_bernard_of_clairvaux_340620"}},"expanded":false,"subtitle":"The Virgin Appearing to St. Bernard","title":"St. Bernard of Clairvaux (Image)","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/details/St.BernardAug20th"}},"expanded":false,"subtitle":"St. Bernard by Jeff BEDIA","title":"St. Bernard of Clairvaux (Audio)","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/stbernardabbotof00eale"}},"expanded":true,"subtitle":"St. Bernard, Abbot of Clairvaux","title":"St. Bernard of Clairvaux / Eales","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/thelifeandtimeso00neanuoft"}},"expanded":true,"subtitle":"The Life and Times","title":"St. Bernard of Clairvaux/ Neander","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/SomeLettersOfSaintBernard"}},"expanded":false,"subtitle":"Some Letters Of Saint Bernard","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/OnLovingGodStBernardOfClairvaux"}},"expanded":true,"subtitle":"On Loving God","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/jubileerhythmst00berngoog"}},"expanded":true,"subtitle":"The Jubilee Rhythm","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/rhapsodyofstbern00smit"}},"expanded":false,"subtitle":"Rhapsody","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/sermonsofstberna00bernuoft"}},"expanded":false,"subtitle":"Sermons on Advent and Christmas","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/St.BernardOnTheSongOfSongs"}},"expanded":true,"subtitle":"Commentary: The Song of Songs","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/cu31924029216681"}},"expanded":false,"subtitle":"Treatise: Concerning Grace and Free Will","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/LifeOfStMalachy"}},"expanded":true,"subtitle":"Life of St. Malachy of Armagh","title":"St. Bernard of Clairvaux","view":{"tag":"UI.ContentViews.Views.WebView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Bernard_of_Clairvaux"
+        }
+      },
+      "title" : "Bernard Of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Wikipedia",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/stbernardstreati00bern"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Treatise on Consideration",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/mma_the_virgin_appearing_to_st_bernard_of_clairvaux_340620"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux (Image)",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Virgin Appearing to St. Bernard",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/St.BernardAug20th"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux (Audio)",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "St. Bernard by Jeff BEDIA",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/stbernardabbotof00eale"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux \/ Eales",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "St. Bernard, Abbot of Clairvaux",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/thelifeandtimeso00neanuoft"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux\/ Neander",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Life and Times",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/SomeLettersOfSaintBernard"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Some Letters Of Saint Bernard",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/OnLovingGodStBernardOfClairvaux"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "On Loving God",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/jubileerhythmst00berngoog"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Jubilee Rhythm",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/rhapsodyofstbern00smit"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Rhapsody",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/sermonsofstberna00bernuoft"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Sermons on Advent and Christmas",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/St.BernardOnTheSongOfSongs"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Commentary: The Song of Songs",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/cu31924029216681"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Treatise: Concerning Grace and Free Will",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/LifeOfStMalachy"
+        }
+      },
+      "title" : "St. Bernard of Clairvaux",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Life of St. Malachy of Armagh",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
+  ]
+}
