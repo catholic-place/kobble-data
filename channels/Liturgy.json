@@ -2,6 +2,14 @@
   "title" : "Liturgy",
   "subtitle" : "Liturgy",
   "tracks" : [
-
+    {
+      "title" : "Liturgy",
+      "subtitle" : "Liturgy",
+      "track" : {
+        "owner" : "catholic-place",
+        "path" : "tracks\/Liturgy",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
