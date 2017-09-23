@@ -1,1 +1,24 @@
-{"page":null,"subtitle":"Books","tags":[],"title":"Books","tracks":[{"children":[],"expanded":false,"subtitle":"Catechism","title":"Catechism","track":{"gist":null,"owner":"catholic-place","path":"tracks/catechism","repo":"kobble-data"}}]}
+{
+  "title" : "Books",
+  "subtitle" : "Books",
+  "tracks" : [
+    {
+      "title" : "Code Of Canon Law",
+      "subtitle" : "Code Of Canon Law ",
+      "track" : {
+        "owner" : "catholic-place",
+        "path" : "tracks\/Code",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Catechism",
+      "subtitle" : "Catechism",
+      "track" : {
+        "owner" : "catholic-place",
+        "path" : "tracks\/catechism",
+        "repo" : "kobble-data"
+      }
+    }
+  ]
+}
