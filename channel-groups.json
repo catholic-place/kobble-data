@@ -19,15 +19,7 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Archived Prayer Books",
-          "subtitle" : "Archived Prayer Books",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/archived prayer books.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
       "name" : "Prayers"
