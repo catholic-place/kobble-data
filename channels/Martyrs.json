@@ -2,6 +2,14 @@
   "title" : "Catholic Martyrs",
   "subtitle" : "Martyrs Of The Catholic Faith",
   "tracks" : [
-
+    {
+      "title" : "Catholic Martyrs",
+      "subtitle" : "Martyrs Of The Catholic Faith",
+      "track" : {
+        "owner" : "catholic-place",
+        "path" : "tracks\/Martyrs",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
