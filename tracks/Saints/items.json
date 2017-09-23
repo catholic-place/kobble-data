@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/ruleofstbenedic00delauoft\/ruleofstbenedic00delauoft_djvu.txt"
+        }
+      },
+      "title" : "Rule Of St. Benedict",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Rule Of St. Benedict Archived",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/en.m.wikipedia.org\/wiki\/List_of_saints"
         }
       },
