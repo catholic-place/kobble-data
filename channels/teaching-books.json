@@ -3,15 +3,6 @@
   "subtitle" : "Books",
   "tracks" : [
     {
-      "title" : "Concordance",
-      "subtitle" : "Bible Concordance",
-      "track" : {
-        "owner" : "catholic-place",
-        "path" : "tracks\/Concordance",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Code Of Canon Law",
       "subtitle" : "Code Of Canon Law ",
       "track" : {
