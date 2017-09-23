@@ -11,7 +11,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Roman Missal",
+      "subtitle" : "Roman Missal Archive",
       "expanded" : true,
       "children" : [
 
