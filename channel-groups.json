@@ -27,15 +27,7 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Catholic Prayer Books",
-          "subtitle" : "Catholic Prayer Books",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/Catholic Prayers.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
       "name" : "Prayers"
