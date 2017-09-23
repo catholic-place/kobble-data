@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Bible Concordance",
+          "subtitle" : "English And Greek Concordance",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/Bible Concordance.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Bible Study"
