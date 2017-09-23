@@ -19,7 +19,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Prayer Books",
+          "subtitle" : "Prayer Books",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/prayer books.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Prayers"
