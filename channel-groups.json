@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Bible",
+          "subtitle" : "Bible",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/bible.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Bible Study"
