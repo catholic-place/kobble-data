@@ -1,1 +1,106 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/details/mma_st_ambrose_388781"}},"expanded":false,"subtitle":"St. Ambrose Image","title":"St. Ambrose (woodblock print)","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/details/AmbroseSabinus"}},"expanded":false,"subtitle":"Letters from a Friendship","title":"St. Ambrose (audio)","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/45ALibraryOfFathersOfTheHolyCatholicV45"}},"expanded":false,"subtitle":"The letters of St. Ambrose","title":"St. Ambrose","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/stambrosehislif00thorgoog"}},"expanded":false,"subtitle":"His Life, Times, and Teaching ","title":"St. Ambrose","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/St.AmbroseSelectedWorksAndLetters"}},"expanded":false,"subtitle":"Selected Works and Letters","title":"St. Ambrose","view":{"tag":"UI.ContentViews.Views.WebView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Ambrose"
+        }
+      },
+      "title" : "Ambrose",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Wikipedia",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/mma_st_ambrose_388781"
+        }
+      },
+      "title" : "St. Ambrose (woodblock print)",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "St. Ambrose Image",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/AmbroseSabinus"
+        }
+      },
+      "title" : "St. Ambrose (audio)",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Letters from a Friendship",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/45ALibraryOfFathersOfTheHolyCatholicV45"
+        }
+      },
+      "title" : "St. Ambrose",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The letters of St. Ambrose",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/stambrosehislif00thorgoog"
+        }
+      },
+      "title" : "St. Ambrose",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "His Life, Times, and Teaching ",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/St.AmbroseSelectedWorksAndLetters"
+        }
+      },
+      "title" : "St. Ambrose",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Selected Works and Letters",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    }
+  ]
+}
