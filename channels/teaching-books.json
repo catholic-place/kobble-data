@@ -3,6 +3,15 @@
   "subtitle" : "Books",
   "tracks" : [
     {
+      "title" : "Books By Catholic Authors",
+      "subtitle" : "Books By Catholic Authors",
+      "track" : {
+        "owner" : "catholic-place",
+        "path" : "tracks\/Books by Catholics",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Code Of Canon Law",
       "subtitle" : "Code Of Canon Law ",
       "track" : {
