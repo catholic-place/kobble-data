@@ -1,1 +1,55 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"}},"expanded":false,"subtitle":"Cyril of Jerusalem","title":"St. Cyril of Jerusalem (Wiki)","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/St.cyrilOfJerusalemSt.GregoryOfNazianzen"}},"expanded":false,"subtitle":"The Catechetical Lectures","title":"St. Cyril of Jerusalem","view":{"tag":"UI.ContentViews.Views.WebView"}},{"children":[],"data":{"tag":"UI.Track.UrlD","contents":{"url":"https://archive.org/stream/02ALibraryOfFathersOfTheHolyCatholicV02"}},"expanded":false,"subtitle":"Fathers Library Catechetical Lectures","title":"St. Cyril of Jerusalem","view":{"tag":"UI.ContentViews.Views.WebView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Cyril_of_Jerusalem"
+        }
+      },
+      "title" : "Cyril of Jerusalem ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Wikipedia",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/St.cyrilOfJerusalemSt.GregoryOfNazianzen"
+        }
+      },
+      "title" : "St. Cyril of Jerusalem",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Catechetical Lectures",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/02ALibraryOfFathersOfTheHolyCatholicV02"
+        }
+      },
+      "title" : "St. Cyril of Jerusalem",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Fathers Library Catechetical Lectures",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    }
+  ]
+}
