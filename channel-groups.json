@@ -47,6 +47,15 @@
           }
         },
         {
+          "title" : "Saints",
+          "subtitle" : "Catholic Saints",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/Saints.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Catholic Martyrs",
           "subtitle" : "Martyrs Of The Catholic Faith",
           "channel" : {
@@ -65,22 +74,6 @@
           }
         },
         {
-          "title" : "Saints",
-          "subtitle" : "Catholic Saints",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/Saints.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Channels"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
           "title" : "Doctors of the Church",
           "subtitle" : "Doctors of the Church",
           "channel" : {
@@ -88,14 +81,7 @@
             "path" : "channels\/Doctors-of-the-Church.json",
             "repo" : "kobble-data"
           }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Saints"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
+        },
         {
           "title" : "Books",
           "subtitle" : "Books",
@@ -104,14 +90,7 @@
             "path" : "channels\/teaching-books.json",
             "repo" : "kobble-data"
           }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Teaching"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
+        },
         {
           "title" : "Biographies",
           "subtitle" : "Biographies",
@@ -123,7 +102,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "Church"
+      "name" : "Channels"
     }
   ]
 }
