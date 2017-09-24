@@ -1,22 +1,6 @@
 {
   "groups" : [
     {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Welcome",
-          "subtitle" : "Welcome",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/Welcome.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Home"
-    },
-    {
       "isShowing" : true,
       "channels" : [
         {
