@@ -1,10 +1,10 @@
 {
-  "title" : "Prayer Books",
-  "subtitle" : "Prayer Books",
+  "title" : "Prayers",
+  "subtitle" : "Prayers",
   "tracks" : [
     {
-      "title" : "Prayers",
-      "subtitle" : "Prayers",
+      "title" : "Prayer Books",
+      "subtitle" : "Prayer Books",
       "track" : {
         "owner" : "catholic-place",
         "path" : "tracks\/prayers",
