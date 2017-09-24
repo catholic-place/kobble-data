@@ -5,7 +5,7 @@
       "channels" : [
         {
           "title" : "Welcome",
-          "subtitle" : "Welcome", 
+          "subtitle" : "Welcome to Catholic Place", 
           "channel" : {
             "owner" : "catholic-place",
             "path" : "channels\/Welcome.json",
