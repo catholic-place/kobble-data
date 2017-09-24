@@ -30,7 +30,7 @@
         },
         {
           "title" : "Prayers",
-          "subtitle" : "Prayers",
+          "subtitle" : "Prayers, Prayer Books",
           "channel" : {
             "owner" : "catholic-place",
             "path" : "channels\/prayerbooks.json",
