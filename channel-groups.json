@@ -27,14 +27,7 @@
             "path" : "channels\/bible.json",
             "repo" : "kobble-data"
           }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Bible Study"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
+        },
         {
           "title" : "Prayer Books",
           "subtitle" : "Prayer Books",
@@ -43,14 +36,7 @@
             "path" : "channels\/prayerbooks.json",
             "repo" : "kobble-data"
           }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Prayers"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
+        },
         {
           "title" : "Liturgy",
           "subtitle" : "Liturgy",
@@ -62,7 +48,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "Liturgy"
+      "name" : "Bible Study"
     },
     {
       "isShowing" : true,
