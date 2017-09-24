@@ -21,7 +21,7 @@
       "channels" : [
         {
           "title" : "Bible",
-          "subtitle" : "Bible",
+          "subtitle" : "Bible Studies, Commentaries, Concordance",
           "channel" : {
             "owner" : "catholic-place",
             "path" : "channels\/bible.json",
@@ -29,8 +29,8 @@
           }
         },
         {
-          "title" : "Prayer Books",
-          "subtitle" : "Prayer Books",
+          "title" : "Prayers",
+          "subtitle" : "Prayers",
           "channel" : {
             "owner" : "catholic-place",
             "path" : "channels\/prayerbooks.json",
