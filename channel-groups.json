@@ -4,17 +4,17 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Liturgy",
-          "subtitle" : "Liturgy",
+          "title" : "Welcome",
+          "subtitle" : "Welcome",
           "channel" : {
             "owner" : "catholic-place",
-            "path" : "channels\/Liturgy.json",
+            "path" : "channels\/Welcome.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Liturgy"
+      "name" : "Home"
     },
     {
       "isShowing" : true,
@@ -52,17 +52,17 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Welcome",
-          "subtitle" : "Welcome",
+          "title" : "Liturgy",
+          "subtitle" : "Liturgy",
           "channel" : {
             "owner" : "catholic-place",
-            "path" : "channels\/Welcome.json",
+            "path" : "channels\/Liturgy.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Home"
+      "name" : "Liturgy"
     },
     {
       "isShowing" : true,
