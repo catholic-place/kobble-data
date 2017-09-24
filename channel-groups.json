@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Home"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Bible",
           "subtitle" : "Bible",
