@@ -39,7 +39,7 @@
         },
         {
           "title" : "Liturgy",
-          "subtitle" : "Liturgy",
+          "subtitle" : "Daily Readings, Missal",
           "channel" : {
             "owner" : "catholic-place",
             "path" : "channels\/Liturgy.json",
