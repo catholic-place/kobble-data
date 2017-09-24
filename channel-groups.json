@@ -45,22 +45,6 @@
             "path" : "channels\/Liturgy.json",
             "repo" : "kobble-data"
           }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Bible Study"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Saints",
-          "subtitle" : "Catholic Saints",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/Saints.json",
-            "repo" : "kobble-data"
-          }
         },
         {
           "title" : "Catholic Martyrs",
@@ -80,6 +64,22 @@
             "repo" : "kobble-data"
           }
         },
+        {
+          "title" : "Saints",
+          "subtitle" : "Catholic Saints",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/Saints.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Channels"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Doctors of the Church",
           "subtitle" : "Doctors of the Church",
